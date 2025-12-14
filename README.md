@@ -9,4 +9,7 @@
 | WTB     | Ready | [Click!](https://github.com/DanzzuPMP/DanzuPMP/raw/refs/heads/main/plugins/WTB%20%5B%20World%20Text%20Broadcast%20%5D.phar) |
 | DanzAI | Ready | [Click!](https://github.com/DanzzuPMP/DanzuPMP/raw/refs/heads/main/plugins/DanzAI.phar)
 
-_Dont forget to give me the Star :)_
+## Update Logs
+* 1.0.0
+  Added Plugin **WTB**
+  Added Plugin **DanzAI**
