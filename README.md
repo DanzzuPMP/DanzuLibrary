@@ -10,6 +10,6 @@
 | DanzAI | Ready | [Click!](https://github.com/DanzzuPMP/DanzuPMP/raw/refs/heads/main/plugins/DanzAI.phar)
 
 ## Update Logs
-* 1.0.0
-  Added Plugin **WTB**
-  Added Plugin **DanzAI**
+### 1.0.0
+* Added Plugin **WTB**
+* Added Plugin **DanzAI**
