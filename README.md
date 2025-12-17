@@ -10,6 +10,12 @@
 | DanzAI | Ready | [Click!](https://github.com/DanzzuPMP/DanzuPMP/raw/refs/heads/main/plugins/DanzAI.phar) |
 | PWarp | Ready | [Click!](https://github.com/DanzzuPMP/DanzuLibrary/raw/refs/heads/main/plugins/PWarp.phar) |
 
+### DanzAI
+![Status](https://img.shields.io/badge/status-ready-brightgreen)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+
+🔗 https://github.com/DanzzuPM/DanzAI
+
 ## Update Logs
 ### 9/12/25
 * Added Plugin **WTB**
