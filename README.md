@@ -11,6 +11,10 @@
 | PWarp | ![Status](https://img.shields.io/badge/status-ready-brightgreen) | [Click!](https://github.com/DanzzuPMP/DanzuLibrary/raw/refs/heads/main/plugins/PWarp.phar) |
 | ExtensionCheck| ![Status](https://img.shields.io/badge/status-ready-brightgreen) | [Click!](https://github.com/DanzzuPMP/DanzuLibrary/raw/refs/heads/main/plugins/ExtensionCheck.phar)
 
+```Follow my YouTube Account to :3```
+
+[![YouTube](https://img.shields.io/badge/YouTube-10%20Billion%25%20Science-lime?style=for-the-badge&logo=youtube)](https://youtube.com/@DanzuPMP)
+
 ## Update Logs
 ### 9/12/25
 * Added Plugin **WTB**
