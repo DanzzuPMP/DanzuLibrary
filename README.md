@@ -22,14 +22,5 @@
 * Added Plugin **WTB**
 * Added Plugin **DanzAI**
 
-### 16/12/25
-* Added Plugin **PWarp**
-
-_note: if there is a bug fix it yourself_
-
-### 17/12/25
-* Added Plugin **ExtensionCheck**
-
-### 21/12/25
-* Added Plugin **SellGUI**
-* Added Plugin **EconomyApiSell**
+### 29/5/26
+* Move to Web to Download the Plugin.
